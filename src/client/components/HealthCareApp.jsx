@@ -154,8 +154,6 @@ class HealthCareApp extends React.Component {
           buttonClass="usa-button-primary"
           afterText="»"/>
     );
-    
-    
 
     if (submissionStatus === false) {
       submitButton = (
